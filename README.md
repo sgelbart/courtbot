@@ -2,6 +2,8 @@
 
 To explore files of this code and its dependencies visit https://ide.c9.io/sgelbart/courtbot
 
+![How Courtbot Works](https://drive.google.com/file/d/10PdGi5XsGjWrW-gUmevsLIVGzZ9ybEk6/view?usp=sharing)
+
 ## NOTES
 
 This branch is for development of the Tulsa version. It's a WIP.
