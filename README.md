@@ -1,8 +1,8 @@
 # Courtbot (Tulsa Edition) [![Build Status](https://travis-ci.org/codefortulsa/courtbot.svg?branch=master)](https://travis-ci.org/codefortulsa/courtbot)
 
-To explore files of this code and its dependencies visit https://ide.c9.io/sgelbart/courtbot
+To explore this code and its dependencies visit https://ide.c9.io/sgelbart/courtbot
 
-![How Courtbot Works](https://drive.google.com/file/d/10PdGi5XsGjWrW-gUmevsLIVGzZ9ybEk6/view?usp=sharing)
+![How Courtbot Works](courtbot-diagram.png)
 
 ## NOTES
 
