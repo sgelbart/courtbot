@@ -1,8 +1,6 @@
 # Courtbot (Tulsa Edition) [![Build Status](https://travis-ci.org/codefortulsa/courtbot.svg?branch=master)](https://travis-ci.org/codefortulsa/courtbot)
 
-<table><tr><td>
-![How Courtbot Works](courtbot-diagram.png)
-</td></tr></table>
+> ![How Courtbot Works](courtbot-diagram.png)
 
 ## NOTES
 
